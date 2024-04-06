@@ -46,4 +46,4 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Licence
 
-Ce projet est sous licence [indiquez ici la licence de votre choix].
+Ce projet est sous licence xxxxxxxxxxxxxxx.
