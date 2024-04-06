@@ -42,7 +42,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 ## Auteurs
 
-- [Votre nom ou pseudonyme](lien_vers_votre_profil_github) : Description de votre contribution.
+- Lysiariane213: Description de votre contribution.
 
 ## Licence
 
